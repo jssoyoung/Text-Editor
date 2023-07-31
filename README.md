@@ -6,7 +6,7 @@ This project is a text editor. The user could create notes or code snippets with
 
 Here is the link to the github for this project: https://github.com/jssoyoung/Text-Editor
 
-Here is the link to the deployed Heroku application: 
+Here is the link to the deployed Heroku application: https://ancient-taiga-70908-d990270dd0d3.herokuapp.com/
 
 ## Installation
 
